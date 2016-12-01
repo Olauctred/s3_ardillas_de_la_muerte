@@ -1,5 +1,7 @@
 ## Ardillas de la Muerte Team
 
+![img](http://knithacker.com/html/knithacker/wp-content/uploads/2013/02/iheartmonga.jpg)
+
 Team composed by:  
 
 Nombre  | Usuario | Email |
