@@ -1,6 +1,6 @@
 ## Ardillas de la Muerte Team
 
-![img](http://knithacker.com/html/knithacker/wp-content/uploads/2013/02/iheartmonga.jpg)
+![img](https://s-media-cache-ak0.pinimg.com/736x/1c/71/9b/1c719b493ff73c5e09152845fc80c86c.jpg)
 
 Team composed by:  
 
