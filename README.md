@@ -17,4 +17,8 @@ Antonio Jose Sanchez | sanchez14424 | sanchez14424@iesmarenostrum.com |
 [Temas Básicos](http://bootswatch.com)  
 [Otras plantillas](https://startbootstrap.com)  
 
+#### License
+![Licencia de Creative Commons](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)  
+Este obra está bajo una [licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 #### Diseño de Interfaces Web 16-17 | Desarrollo de Aplicaciones Web
