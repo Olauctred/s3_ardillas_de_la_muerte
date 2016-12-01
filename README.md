@@ -12,5 +12,7 @@ Antonio Jose Sanchez | sanchez14424 | sanchez14424@iesmarenostrum.com |
 
 ### Recursos
 [Recursos Bootstrap3](http://librosweb.es/libro/bootstrap_3)
+[Temas Básicos](http://bootswatch.com)
+[Otras plantillas](https://startbootstrap.com)
 
 #### Diseño de Interfaces Web 16-17 | Desarrollo de Aplicaciones Web
