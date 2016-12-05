@@ -16,6 +16,7 @@ Antonio Jose Sanchez | sanchez14424 | sanchez14424@iesmarenostrum.com |
 [Recursos Bootstrap3](http://librosweb.es/libro/bootstrap_3)  
 [Temas Básicos](http://bootswatch.com)  
 [Otras plantillas](https://startbootstrap.com)  
+[Fuentes de Google](https://fonts.google.com) *Se pueden utilizar en los documentos html usando de SRC el link!*  
 
 #### License
 ![Licencia de Creative Commons](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)  
