@@ -1,1 +1,9 @@
-/* Stylesheet */ 
+/* Stylesheet */
+.footer-bs {
+  padding: 20px;
+  border: 0;
+  border-top: 1px solid #1C1E22;
+}
+.header-ns{
+  text-align: left;
+}
