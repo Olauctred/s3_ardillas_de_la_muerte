@@ -61,6 +61,25 @@
     to {opacity:1 ;}
 }
 
-.btn{
+.botones, .botones:active{
   background-color: rgba(255,255,255,.2);
+  border: 1px solid #42DCA3;
+  color:#42DCA3;
+  border-radius: 5px;
+  padding: 5px 15px;
+}
+
+.botones:hover{
+  color: #42DCA3;
+}
+
+
+/* Stylesheet */
+.footer-bs {
+  padding: 20px;
+  border: 0;
+  border-top: 1px solid #1C1E22;
+}
+.header-ns{
+  text-align: left;
 }
