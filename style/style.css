@@ -61,8 +61,16 @@
     to {opacity:1 ;}
 }
 
-.btn{
+.botones, .botones:active{
   background-color: rgba(255,255,255,.2);
+  border: 1px solid #42DCA3;
+  color:#42DCA3;
+  border-radius: 5px;
+  padding: 5px 15px;
+}
+
+.botones:hover{
+  color: #42DCA3;
 }
 
 
@@ -75,4 +83,3 @@
 .header-ns{
   text-align: left;
 }
-
