@@ -14,12 +14,6 @@
   display:none;
 }
 
-@media only screen and (min-width : 1100px) {
-#register{
-  overflow: hidden;
-}
-}
-
 /* Popup container - can be anything you want */
 .popup {
     position: relative;
