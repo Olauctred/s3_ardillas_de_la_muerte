@@ -266,7 +266,7 @@ a:focus {
 .btn-default:focus {
   border: 1px solid #42DCA3;
   outline: none;
-  color: black;
+  color: #42DCA3;
   background-color: #42DCA3;
 }
 ul.banner-social-buttons {
